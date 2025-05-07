@@ -1,1 +1,1 @@
-# BE-LAB-Assignments
+# BE-SEM7-LAB-Assignments
